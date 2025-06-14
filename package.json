@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "react-router-dom": "^7.6.2"
+    "react-router-dom": "^7.6.2",
+    "vite": "^6.3.5"
   },
   "dependencies": {
     "bootstrap": "^5.3.6"
